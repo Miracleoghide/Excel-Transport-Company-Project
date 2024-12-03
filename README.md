@@ -40,6 +40,10 @@ I. Next Week    II. Next Month   III. Next 3 Months
    - Google Drive for sharing Document.
   
 ### Project Files
+1. Excel Files: (./Excel Motors Data Report.xlsx)
+2. Excel; (./Excel motors Route data.xlsx)
+3. PowerPoint file: [Download or view powerpoint files](./Excel Motors Data AnalysisP.pptx)
+
 
 ### Conclusion
 This project demonstrates the application of data analysis and presentation skills to address a real-world business problem. The results provide a clear roadmap for Excel Transport to scale effectively and meet growing demand.
