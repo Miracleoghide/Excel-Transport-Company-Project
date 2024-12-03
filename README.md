@@ -40,9 +40,10 @@ I. Next Week    II. Next Month   III. Next 3 Months
    - Google Drive for sharing Document.
   
 ### Project Files
-1. Excel Files: (./Excel Motors Data Report.xlsx)
-2. Excel; (./Excel motors Route data.xlsx)
-3. PowerPoint file: [Download or view powerpoint files](./Excel Motors Data AnalysisP.pptx)
+1. Excel Files: [Excel Motors Data Report.xlsx](https://github.com/user-attachments/files/17993586/Excel.Motors.Data.Report.xlsx)
+2. Excel; [Excel motors Route data.xlsx](https://github.com/user-attachments/files/17993598/Excel.motors.Route.data.xlsx)
+3. PowerPoint file: [Excel Motors Data AnalysisP.pptx](https://github.com/user-attachments/files/17993613/Excel.Motors.Data.AnalysisP.pptx)
+
 
 
 ### Conclusion
