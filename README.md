@@ -7,10 +7,11 @@ This project focuses on data analysis and project management for Excel Transport
 1. [Project Brief](#project-brief)
 2. [Problem Statement](#problem-statement)
 3. [Methodolody and Tools used](#methodology-and-tools-used)
-4. [Project files](#Project-files)
+4. [Project highlights and Action plan](#project-highlights-and-action-plan)
 5. [Data Visuals](#data-visuals)
-6. [Results](#results)
-7. [Conclusion](#conclusion)
+6. [Project files](#project-files)
+7. [Result and Check-In](#result-and-check-in)
+8. [Conclusion](#conclusion)
 
 ### Project Brief
 The demand for road transport is predicted to rise significantly, and Excel Transport will need to quickly grow its fleet to handle the increase in passengers. This is due to increase of flight prices which is making more people turn to road transportation. However, the Company can only double its fleet size due to limited resources. This project aims to maximize fleet expansion and optimize operations.   
@@ -38,13 +39,57 @@ I. Next Week    II. Next Month   III. Next 3 Months
    - Microsoft PowerBI for Visualation.
    - Microsoft PowerPoint for documentation and presenting findings.
    - Google Drive for sharing Document.
-  
-### Project Files
+
+### Project highlights and Action plan
+I used Excel to build a target simulation model that identifies key metrics and supports achieving the project goals.
+![Target simulation](https://github.com/user-attachments/assets/7bd8ad44-8970-4743-a639-b39ca390ef7c)
+![conversion  applicants](https://github.com/user-attachments/assets/401a87a2-19e2-482f-b532-afa55d5e2513)
+
+
+The **ACTION PLAN**  was made in three phases.
+1. **Phase 1 (Next week)**: Immediate actions to kick-start the Project. This Phase was called Situation Exploration and Analysis
+   ![Phase 1](https://github.com/user-attachments/assets/a606c5b2-e434-4d2a-ac0a-840f292825c1)
+2. **Phase 2 (One Month)**: Short term strategies.
+   ![Phase 2](https://github.com/user-attachments/assets/f9dce92d-ed76-402d-b637-bf7056acf403)
+
+3. **Phase 3 (One Quarter)**: Long term strategies for sustained growth
+   ![Phase 3](https://github.com/user-attachments/assets/d20ca7a3-e61c-401d-ae0f-6dd646c3d13f)
+
+**Routes Prioritization**
+![routes](https://github.com/user-attachments/assets/236c6ea6-5c57-4b79-95f4-3f6edb598474)
+
+In sharing the fleet and prioritizing, the major factors considered include
+- Size of forecasted passengers
+- Current fleet utilization
+- Customer satisfaction and market size
+- Churn
+- Number of trips
+ *** Revenue was not considered a main factor because there was not more data to support profit margin, expenses and cost of running the route.
+![Reasons](https://github.com/user-attachments/assets/997be246-0e11-46b6-aa36-217ec86a20ba)
+
+### Data Visuals
+![excel](https://github.com/user-attachments/assets/71d86189-0414-425d-ae14-6a97f12f6552)
+![correct fleet](https://github.com/user-attachments/assets/065a78af-8987-4ae2-846d-fafbbe6606fb)
+
+
+### Result and Check-In
+After Three months of implementing the action plan, Excel Transport experienced an 85% increase in fleet sDid the Action Plan work? What would be a good way to access the effectiveness of the action plan?
+
+The company has experienced an impressive 85% growth, which is a highly positive development. However, this outcome cannot be fully attributed to the action plan without a comprehensive analysis. External factors, such as changes in economic conditions or unrelated decisions, may have also contributed to this growth.
+By evaluating the effectiveness of the implemented action plan, we can better understand its impact and pinpoint areas that require improvement to ensure sustained success in the future.
+To assess the effectiveness of the plan;
+- Examine timing and trends
+- Analyze the weekly recruitment reports and churn reports
+- Analyze performance of optimized routes
+- Collect feedbacks from teams and drivers to understand the effectiveness of the plan
+
+
+### Project files
+To download and view the files for more detailed view of the project;
 1. Excel Files: [Excel Motors Data Report.xlsx](https://github.com/user-attachments/files/17993586/Excel.Motors.Data.Report.xlsx)
 2. Excel; [Excel motors Route data.xlsx](https://github.com/user-attachments/files/17993598/Excel.motors.Route.data.xlsx)
 3. PowerPoint file: [Excel Motors Data AnalysisP.pptx](https://github.com/user-attachments/files/17993613/Excel.Motors.Data.AnalysisP.pptx)
 
 
-
 ### Conclusion
-This project demonstrates the application of data analysis and presentation skills to address a real-world business problem. The results provide a clear roadmap for Excel Transport to scale effectively and meet growing demand.
+This project demonstrates the application of data analysis and project managemnet to address a real-world business problem. The results provide a clear roadmap for Excel Transport to scale effectively and meet growing demand. 
